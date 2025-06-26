@@ -1,5 +1,5 @@
-<h1 align="center"> Hi, I'm Min Raj Panday</h1>
-<h3 align="center">🎓 BSc CSIT @ Prime College | 💻 DevOps Enthusiast | 🎬 Video Editor</h3>
+<h1 > Hi, I'm Min Raj Panday</h1>
+<h3 >🎓 BSc CSIT @ Prime College | 💻 DevOps Enthusiast | 🎬 Video Editor</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=DevOps+Learner+%F0%9F%9B%A0%EF%B8%8F;Cloud+%26+CI%2FCD+Explorer+%E2%98%81%EF%B8%8F;Creative+Video+Editor+%F0%9F%8E%A5" alt="Typing SVG" />
