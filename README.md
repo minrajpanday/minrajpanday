@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kushal Panday</h1>
+<h1 align="center">Hi 👋, I'm Min Raj Panday</h1>
 
 <p align="center">
   🎓 BSc CSIT Student @ Prime College | 💻 DevOps Enthusiast | 🎬 Creative Video Editor
