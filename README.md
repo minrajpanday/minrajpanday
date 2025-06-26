@@ -38,14 +38,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushalpanday&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalpanday&theme=radical" height="150">
-</p>
-
----
 
 ### 📫 Connect With Me
 
