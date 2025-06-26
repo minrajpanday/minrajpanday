@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Min Raj Panday</h1>
+<h1 align="center"> Hi, I'm Min Raj Panday</h1>
 <h3 align="center">🎓 BSc CSIT @ Prime College | 💻 DevOps Enthusiast | 🎬 Video Editor</h3>
 
 <div align="center">
