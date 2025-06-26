@@ -34,7 +34,7 @@
 
 **Video Editing**  
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=flat&logo=blackmagicdesign&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-9999FF?style=flat&logo=blackmagicdesign&logoColor=white)
 
 ---
 
