@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td><strong>🎬 Editing Tools</strong></td>
-    <td>Premiere Pro, After Effects, DaVinci Resolve</td>
+    <td>Premiere Pro, DaVinci Resolve</td>
   </tr>
   <tr>
     <td><strong>📁 Final Year Project</strong></td>
