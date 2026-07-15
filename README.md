@@ -1,31 +1,31 @@
 <h1 align="center"> Hi, I'm Min Raj Panday</h1>
-<h3 align="center">🎓 BSc CSIT @ Prime College | 💻 DevOps Enthusiast | 🎬 Video Editor</h3>
+<h3 align="center">🎓 BSc CSIT @ Prime College | DevOps Enthusiast | Video Editor</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=DevOps+Learner+%F0%9F%9B%A0%EF%B8%8F;Cloud+%26+CI%2FCD+Explorer+%E2%98%81%EF%B8%8F;Creative+Video+Editor+%F0%9F%8E%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=DevOps+Learner;Cloud+%26+CI%2FCD+Explorer;Creative+Video+Editor" alt="Typing SVG" />
 </div>
 
 ## 🔧 About Me
 
 <table>
   <tr>
-    <td><strong>🎯 Career Goal</strong></td>
+    <td><strong>Career Goal</strong></td>
     <td>Aspiring DevOps Engineer</td>
   </tr>
   <tr>
-    <td><strong>🎬 Editing Tools</strong></td>
+    <td><strong>Editing Tools</strong></td>
     <td>Premiere Pro, DaVinci Resolve</td>
   </tr>
   <tr>
-    <td><strong>📁 Final Year Project</strong></td>
+    <td><strong>Final Year Project</strong></td>
     <td>DeNoisify – Audio Denoising using CNN & Signal Subspace</td>
   </tr>
   <tr>
-    <td><strong>📚 Learning</strong></td>
+    <td><strong>Learning</strong></td>
     <td>Docker, Kubernetes, GitLab CI/CD, AWS</td>
   </tr>
   <tr>
-    <td><strong>🏢 Experience</strong></td>
+    <td><strong>Experience</strong></td>
     <td>Careerbanau, Sinja E-commerce, Prime EMC Club</td>
   </tr>
 </table>
